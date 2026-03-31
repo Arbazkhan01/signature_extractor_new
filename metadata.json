@@ -1,0 +1,5 @@
+{
+  "name": "Signature Extractor",
+  "description": "Automatically detect and extract signature images from PDF documents and images using AI.",
+  "requestFramePermissions": []
+}
